@@ -40,7 +40,7 @@ public class Km01CF {
         int busNumber = 84;
         switch(busNumber){
             case 80 : System.out.println("Sanamlong"); 
-                            break;
+                            break;// ทุกเคสควรจะต้องมี break
             case 57 : System.out.println("PATA");                
                             break;
             case 84 : System.out.println("Wat Rai King");        
